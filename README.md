@@ -1,11 +1,31 @@
 # Project J.I.D.
 ### DepEd Student Monitoring & Intervention Dashboard
-**Platform:** Windows &nbsp;|&nbsp; **For:** DepEd Teachers &nbsp;|&nbsp; **Latest:** v2.2.0
+**Version:** v2.2.0 &nbsp;|&nbsp; **Platform:** Windows (Desktop) &nbsp;|&nbsp; **Access:** DepEd Teachers
 
 ---
 
 > ⚠️ **This repository contains installer releases only. Source code is not public.**
 > Download the latest installer below and run it to install the app on your Windows machine.
+
+---
+
+## What is Project J.I.D.?
+
+Project J.I.D. is a Windows desktop app built for DepEd teachers who want a clearer, faster picture of how their students are doing — and what to do about it.
+
+It brings together attendance, grades, risk profiling, and intervention tracking in one place, so you spend less time digging through spreadsheets and more time actually helping students.
+
+Whether you're a **class adviser** managing a full homeroom, or a **subject teacher** monitoring performance in your specific class, Project J.I.D. adapts to how you work. You decide how much of it you use — it can be as simple as a grade tracker or as powerful as a full intervention management system.
+
+---
+
+## Who is it for?
+
+**Class Advisers** get the full picture: attendance trends, grade monitoring across all subjects, student risk levels, and a live Cockpit that surfaces who needs attention first.
+
+**Subject Teachers** can use the app in a focused mode — track grades and performance for their subject, flag at-risk students, and run targeted intervention campaigns without needing to manage the full homeroom dataset.
+
+The app scales to what you need. Start small, expand when you're ready.
 
 ---
 
@@ -17,11 +37,38 @@ Compatible with Windows 10 and Windows 11.
 
 ---
 
-## What is Project J.I.D.?
+## System Requirements
 
-Project J.I.D. is a Windows desktop app built for DepEd teachers who want a clearer, faster picture of how their students are doing — and what to do about it.
+| | |
+|---|---|
+| OS | Windows 10 or Windows 11 |
+| RAM | 4 GB minimum, 8 GB recommended |
+| Disk | ~200 MB for installation |
+| Internet | Required for initial activation and auto-updates |
 
-It brings together attendance from SF2, grades from class records and consolidated sheets, student risk profiling, and intervention tracking in one place — so you spend less time digging through spreadsheets and more time actually helping students.
+---
+
+## Installation
+
+1. Download the installer (`.exe`) from the [Releases page](https://github.com/jidloyola/project-jid-releases/releases)
+2. Run the installer — it will install the app and create a desktop shortcut
+3. Launch **Project J.I.D.** and activate with your license key
+4. Go to **Settings** and enter your name, school, section, and school year
+
+---
+
+## First-Time Setup
+
+When you open the app for the first time, go to **Settings** (gear icon) and fill in:
+
+- **School Name** — your school's official name
+- **Section** — your class section (e.g. Grade 12 DEIMOS)
+- **School Year** — e.g. 2026–2027
+- **Class Adviser Name** — used on certificates and reports
+- **School Head** — for report headers
+- **Subjects Handled** — list your subjects, comma-separated
+
+These fields appear on all generated documents and certificates. You only need to set them once.
 
 ---
 
@@ -44,26 +91,6 @@ It brings together attendance from SF2, grades from class records and consolidat
 **Knowledge Base** — Nine built-in reference articles explain how every system works: risk calculation (with a live simulator), Option B EMA policy, attendance formulas, Honor Roll criteria, and more.
 
 **School Year Timeline** — Live sidebar showing the SY 2026–2027 three-term calendar with today's position, milestone countdowns, and SF2 upload status per month.
-
----
-
-## System Requirements
-
-| | |
-|---|---|
-| OS | Windows 10 or Windows 11 |
-| RAM | 4 GB minimum, 8 GB recommended |
-| Disk | ~200 MB for installation |
-| Internet | Required for initial activation and auto-updates |
-
----
-
-## Installation
-
-1. Download the installer (`.exe`) from the [Releases page](https://github.com/jidloyola/project-jid-releases/releases)
-2. Run the installer — it will install the app and create a desktop shortcut
-3. Launch **Project J.I.D.** and activate with your license key
-4. Go to **Settings** and enter your name, school, section, and school year
 
 ---
 
