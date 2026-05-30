@@ -122,6 +122,6 @@ To check manually: **Help → Check for Updates…**
 
 This software is intended for DepEd teachers and school personnel. Unauthorized redistribution is not permitted.
 
-For licensing inquiries contact: **gideon.daganio@deped.gov.ph**
+For licensing inquiries contact: **gideon+projectjid@deped.gov.ph**
 
 &copy; 2026 Project J.I.D. — Built for DepEd Teachers.
