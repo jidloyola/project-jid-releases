@@ -1,6 +1,6 @@
 # Project J.I.D.
 ### DepEd Student Monitoring & Intervention Dashboard
-**Version:** v2.2.0 &nbsp;|&nbsp; **Platform:** Windows (Desktop) &nbsp;|&nbsp; **Access:** DepEd Teachers
+**Version:** v2.3.0 &nbsp;|&nbsp; **Platform:** Windows (Desktop) &nbsp;|&nbsp; **Access:** DepEd Teachers
 
 ---
 
@@ -74,6 +74,8 @@ These fields appear on all generated documents and certificates. You only need t
 
 ## Key Features
 
+**Teacher's Schedule Card** — Upload your Excel class program and it appears as a *My Schedule* card in the app's right panel, grouped by day with correct time ranges and a color-coded TODAY indicator. No Excel file? Use **Add Manually** to type in your schedule directly. A ✏ edit button lets you update entries at any time. A ⚙ **Timeline Customizer** lets you edit term names, dates, and milestones from the UI — no code changes needed for next school year.
+
 **Adviser Cockpit** — A priority-ranked dashboard that surfaces your most at-risk students automatically. Combines attendance, grade, and behavioral signals into a single view.
 
 **Student Risk Profiling** — Risk levels reflect both attendance patterns and academic performance. Every badge shows a reason label *(Academic)*, *(Attendance)*, or *(Both)* so you always know what to act on.
@@ -106,6 +108,7 @@ To check manually: **Help → Check for Updates…**
 
 | Version | Date | Highlights |
 |---------|------|------------|
+| v2.3.0 | Jun 6, 2026 | Teacher's Schedule card (Excel upload or manual entry), merged-cell XLSX parsing, Timeline Customizer (edit term names/dates/milestones via UI), Manual Schedule Editor with day tabs and entry reordering, collapsible My Schedule + Opening Block cards |
 | v2.2.0 | May 31, 2026 | Docked student context panel, slide animation, edge-chevron collapse buttons, Focus Mode (Shift+F), compact timeline with urgency signal, header color continuity, timeline dimming fix |
 | v2.1.0 | May 29, 2026 | SF2 Unicode symbol support (⬒ Late, ⬓ Cutting, HD Half Day), Love Letter multi-language (EN/FIL/WAR), Multidimensional risk fix, Behavioral Flags, absent days fix |
 | v2.0.0 | May 28, 2026 | Full UI redesign, Academic + Attendance combined risk engine, Knowledge Base with 9 articles and live risk simulator |
