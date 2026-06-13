@@ -1,6 +1,6 @@
 # Project J.I.D.
 ### DepEd Student Monitoring & Intervention Dashboard
-**Version:** v2.3.0 &nbsp;|&nbsp; **Platform:** Windows (Desktop) &nbsp;|&nbsp; **Access:** DepEd Teachers
+**Version:** v3.0.0 &nbsp;|&nbsp; **Platform:** Windows (Desktop) &nbsp;|&nbsp; **Access:** DepEd Teachers
 
 ---
 
@@ -74,8 +74,6 @@ These fields appear on all generated documents and certificates. You only need t
 
 ## Key Features
 
-**Teacher's Schedule Card** — Upload your Excel class program and it appears as a *My Schedule* card in the app's right panel, grouped by day with correct time ranges and a color-coded TODAY indicator. No Excel file? Use **Add Manually** to type in your schedule directly. A ✏ edit button lets you update entries at any time. A ⚙ **Timeline Customizer** lets you edit term names, dates, and milestones from the UI — no code changes needed for next school year.
-
 **Adviser Cockpit** — A priority-ranked dashboard that surfaces your most at-risk students automatically. Combines attendance, grade, and behavioral signals into a single view.
 
 **Student Risk Profiling** — Risk levels reflect both attendance patterns and academic performance. Every badge shows a reason label *(Academic)*, *(Attendance)*, or *(Both)* so you always know what to act on.
@@ -108,7 +106,10 @@ To check manually: **Help → Check for Updates…**
 
 | Version | Date | Highlights |
 |---------|------|------------|
-| v2.3.0 | Jun 6, 2026 | Teacher's Schedule card (Excel upload or manual entry), merged-cell XLSX parsing, Timeline Customizer (edit term names/dates/milestones via UI), Manual Schedule Editor with day tabs and entry reordering, collapsible My Schedule + Opening Block cards |
+| v3.0.0 | Jun 13, 2026 | New Student Support hub — Interventions, Classroom Rules, and Parent Communications now live in one view with an Overview dashboard, a "needs follow-up" list, and a shared activity timeline. Generate printable parent notice letters straight from a logged incident with acknowledgment tracking, and the Cockpit now flags repeat behavior incidents and notices awaiting a reply. Plus 8 new behavior-focused intervention templates and visual polish across charts, print output, and Classroom Rules |
+| v2.5.3 | Jun 10, 2026 | Design audit release — truthful Cockpit triage scores, MPS Suite as its own view, full-page Settings with unsaved-changes protection, cleaner Student Details tabs, smarter right-panel behavior, honest chart axes, print-ready grayscale student profiles |
+| v2.4.1 | Jun 10, 2026 | Classroom Rules & Incident Tracker — configurable rules engine, per-student incident logging with auto-escalation, sidebar violation analytics, incident data in printed reports, Opening Block timeline editing |
+| v2.3.0 | Jun 6, 2026 | Teacher's Program schedule card (Excel upload or manual entry), Timeline Customizer for term names/dates/milestones, Manual Schedule Editor, collapsible schedule cards |
 | v2.2.0 | May 31, 2026 | Docked student context panel, slide animation, edge-chevron collapse buttons, Focus Mode (Shift+F), compact timeline with urgency signal, header color continuity, timeline dimming fix |
 | v2.1.0 | May 29, 2026 | SF2 Unicode symbol support (⬒ Late, ⬓ Cutting, HD Half Day), Love Letter multi-language (EN/FIL/WAR), Multidimensional risk fix, Behavioral Flags, absent days fix |
 | v2.0.0 | May 28, 2026 | Full UI redesign, Academic + Attendance combined risk engine, Knowledge Base with 9 articles and live risk simulator |
@@ -125,6 +126,6 @@ To check manually: **Help → Check for Updates…**
 
 This software is intended for DepEd teachers and school personnel. Unauthorized redistribution is not permitted.
 
-For licensing inquiries contact: **jidloyola+projectjid@gmail.com**
+For licensing inquiries contact: **gideon.daganio@deped.gov.ph**
 
 &copy; 2026 Project J.I.D. — Built for DepEd Teachers.
